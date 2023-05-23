@@ -1,5 +1,4 @@
 name: ITI OS Web application
-
 on:
   push:
     branches: ["main"]
